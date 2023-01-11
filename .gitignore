@@ -1,0 +1,4 @@
+# 無視する系
+src/*
+output/*
+.ipynb_checkpoints/*
